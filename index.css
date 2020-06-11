@@ -40,7 +40,7 @@ ul {
 margin:0;
 pading:0;
 list-style:none;
-height:50px;
+height:200px;
 }
 
 ul li {
@@ -50,11 +50,11 @@ float:left;
 ul li a {
 color:red;
 display:block;
-height:70px;
-padding:0 30px;
+height:150px;
+padding:0 100px;
 text-transform:uppercase;
 text-decoration:none;
-line-height:50px;
+line-height:200px;
 
 transition: 0.2s ease-out;
 }
