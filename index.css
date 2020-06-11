@@ -28,7 +28,7 @@ margin: 0 auto;
 naw:before {
 content:'';
 display:block;
-height:50px;
+height:200px;
 width:100%;
 background:blue;
 position:absolute
